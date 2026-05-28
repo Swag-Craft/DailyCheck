@@ -1,0 +1,25 @@
+﻿# Flutter
+.dart_tool/
+.packages
+build/
+*.iml
+.idea/
+.vscode/
+*.lock
+
+# Windows
+windows/flutter/ephemeral/
+
+# macOS
+.macos/
+ios/
+
+# Android
+.android/
+*.apk
+*.aab
+
+# Misc
+*.log
+*.pyc
+__pycache__/
