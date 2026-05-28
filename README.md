@@ -1,4 +1,4 @@
-# richang
+# 日常 DailyCheck
 
 A new Flutter project.
 
