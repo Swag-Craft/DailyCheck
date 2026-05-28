@@ -1,16 +1,3 @@
 # 日常 DailyCheck
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<img width="944" height="812" alt="DailyCheck_Aq0ARAUCIb" src="https://github.com/user-attachments/assets/f9c09849-f30c-496d-9223-6ce853c9add1" />
