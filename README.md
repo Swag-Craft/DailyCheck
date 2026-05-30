@@ -8,29 +8,29 @@
 
 ## 功能特性
 
-# 📋 今日任務 #
-# 🌸 習慣打卡 #
-# 📝 每日日記 #
-# 📅 過往記錄 #
-# 👁️ 頁面監控 #
-# 🐱桌面精靈 #
-# 🎨 11 套主題 #
+### 📋 今日任務 
+### 🌸 習慣打卡 
+### 📝 每日日記 
+### 📅 過往記錄 
+### 👁️ 頁面監控 
+### 🐱桌面精靈 
+### 🎨 11 套主題 
 
 
 ## 截图
 
-# 今日頁面
+### 今日頁面
 
 <p align="center">
 <img width="960" height="820" alt="electron_nt65MXBos2" src="https://github.com/user-attachments/assets/50e30258-d22f-4b41-aef1-2ee0ab2c90f0" />
 </p>
 
-# 過往頁面
+### 過往頁面
 <p align="center">
 <img width="960" height="820" alt="electron_vX2MWQtyF8" src="https://github.com/user-attachments/assets/39c3873b-181a-43b4-ad0e-d5593de010ef" />
 </p>
 
-# 關注頁面
+### 關注頁面
 <p align="center">
 <img width="960" height="820" alt="electron_cTR4ZBte2V" src="https://github.com/user-attachments/assets/36708acc-8317-43b7-9d61-90e2539c3ff3" />
 </p>
